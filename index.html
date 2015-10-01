@@ -1,0 +1,14 @@
+---
+layout: default
+---
+<h1 id="repos">Repositories</h1>
+<div class="row marketing">
+	{% for repository in site.github.public_repositories %}
+        <div class="col-lg-6">
+       	 	<h4>
+       	 		<a href="{{ repository.html_url }}">{{ repository.name }}</a>
+       	 	</h4>
+       		<p>{{ repository.description }}</p>
+        </div>
+	{% endfor %}
+</div>
