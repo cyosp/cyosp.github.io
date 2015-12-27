@@ -1,3 +1,6 @@
+### V 1.5.0 27/12/2015
+ - Update in order to add new missing repositories
+
 ### V 1.4.0 09/11/2015
  - Add rc4fbx repository
 
