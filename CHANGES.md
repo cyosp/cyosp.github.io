@@ -1,3 +1,6 @@
+### V 1.6.0 21/02/2016
+ - Add rec-rsl and rrd2csv repositories
+
 ### V 1.5.0 27/12/2015
  - Update in order to add new missing repositories
 
