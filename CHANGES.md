@@ -1,3 +1,6 @@
+### V 1.7.0 16/03/2016
+ - Add CYTHS repository
+
 ### V 1.6.0 21/02/2016
  - Add rec-rsl and rrd2csv repositories
 
