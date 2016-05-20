@@ -1,3 +1,6 @@
+### V 1.8.0 20/05/2016
+ - Add AsmTinySerial repository
+
 ### V 1.7.0 16/03/2016
  - Add CYTHS repository
 
