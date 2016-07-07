@@ -1,3 +1,6 @@
+### V 1.8.1 07/07/2016
+ - Update CYTHS description
+
 ### V 1.8.0 20/05/2016
  - Add AsmTinySerial repository
 
