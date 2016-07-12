@@ -1,3 +1,6 @@
+### V 1.8.2 12/07/2016
+ - Remove rc-rsl-www repository
+
 ### V 1.8.1 07/07/2016
  - Update CYTHS description
 
