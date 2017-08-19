@@ -1,3 +1,6 @@
+### V 1.10.0 2017-08-19
+ - Add mpa-server repository
+ 
 ### V 1.9.0 2016-07-29
  - Add My3DLibs repository
 
