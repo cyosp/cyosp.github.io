@@ -1,4 +1,7 @@
-### V 1.10.0 2017-08-19
+### V 1.11.0 2020-10-09
+ - Add missing repositories: bouyguestelecom-smsapi, homebank-server, arobase, publish-release-with-notes and ids
+
+ ### V 1.10.0 2017-08-19
  - Add mpa-server repository
  
 ### V 1.9.0 2016-07-29
