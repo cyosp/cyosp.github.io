@@ -1,0 +1,12 @@
+.repo-language-color {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+}
+
+.octicon {
+    vertical-align: text-bottom;
+}
