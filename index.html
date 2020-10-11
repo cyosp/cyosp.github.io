@@ -9,7 +9,6 @@ layout: default
                 <h4>
                     <a href="{{ repository.html_url }}">{{ repository.name }}</a>
                 </h4>
-                <p>{{ repository.description }}</p>
                 <div>
                     <span class="repo-language-color" style="background-color:
                         {% if repository.language == "Assembly" %}
@@ -54,6 +53,7 @@ layout: default
                         {{ repository.forks_count }}
                     {% endif %}
                 </div>
+                <p class="description">{{ repository.description }}</p>
             </div>
         {% endif %}
 	{% endfor %}
