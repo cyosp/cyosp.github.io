@@ -11,6 +11,12 @@
     flex-direction: column;
 }
 
+.box {
+    outline: 1px solid #e1e4e8;
+    outline-offset: -4px;
+    padding: 4px 6px 4px 12px;
+}
+
 .repo-language-color {
     position: relative;
     top: 1px;
