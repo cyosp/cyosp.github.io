@@ -5,7 +5,13 @@ layout: default
 <div class="row marketing">
 	{% for repository in site.github.public_repositories %}
         {% if repository.fork == false %}
-            <div class="col-lg-4 box">
+            <div class="col-lg-4
+                {% if repository.archived == false %}
+                    box
+                {% else %}
+                    box-archived
+                {% endif %}
+                ">
                 <h4>
                     <a href="{{ repository.html_url }}">{{ repository.name }}</a>
                 </h4>

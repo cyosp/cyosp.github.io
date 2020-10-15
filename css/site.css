@@ -17,6 +17,11 @@
     padding: 4px 6px 4px 12px;
 }
 
+.box-archived {
+    background: repeating-linear-gradient(-45deg, white, white 10px, #eaeded 10px, #eaeded 20px);
+    border: 4px solid white;
+}
+
 .repo-language-color {
     position: relative;
     top: 1px;
