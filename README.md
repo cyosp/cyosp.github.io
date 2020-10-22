@@ -15,8 +15,8 @@ Web page generated is available here: [CYOSP GitHub Web Page](http://cyosp.githu
 bundle update
 ```
 
-### Run local web server
+### Run local web server available on local network
 
 ```
-bundle exec jekyll serve
+bundle exec jekyll serve --host 0.0.0.0
 ```
