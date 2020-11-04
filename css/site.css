@@ -115,4 +115,6 @@ a:focus, a:hover {
 .description {
     margin-top: 10px;
     margin-bottom: 11px;
+    margin-right: 6px;
+    text-align: justify;
 }
