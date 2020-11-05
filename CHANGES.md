@@ -1,3 +1,6 @@
+### V 1.12.0 2020-11-05
+ - Update cyosp.github.io repository description
+
 ### V 1.11.0 2020-10-09
  - Add missing repositories: bouyguestelecom-smsapi, homebank-server, arobase, publish-release-with-notes and ids
 
