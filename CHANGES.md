@@ -1,3 +1,6 @@
+### V 1.20.0 2022-05-29
+- Add hyperlink to CYOSP image
+
 ### V 1.19.0 2022-02-07
 - Update archived repositories
 
