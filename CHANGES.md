@@ -1,3 +1,7 @@
+### V 1.22.0 2023-01-31
+- Add homebank-app repository
+- Add homebank-server to archived repositories
+ 
 ### V 1.21.0 2023-01-14
 - Update archived repository
 
