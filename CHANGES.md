@@ -1,27 +1,31 @@
+### V 1.23.0 2024-07-01
+ - Add repositories: homebank, https and tv-remote
+ - Add docker-nginx-reverseproxy-letsencrypt to archived repositories
+
 ### V 1.22.0 2023-01-31
-- Add homebank-app repository
-- Add homebank-server to archived repositories
+ - Add homebank-app repository
+ - Add homebank-server to archived repositories
  
 ### V 1.21.0 2023-01-14
-- Update archived repository
+ - Update archived repository
 
 ### V 1.20.0 2022-05-29
-- Add hyperlink to CYOSP image
+ - Add hyperlink to CYOSP image
 
 ### V 1.19.0 2022-02-07
-- Update archived repositories
+ - Update archived repositories
 
 ### V 1.18.0 2021-12-15
-- Update archived repository
+ - Update archived repository
 
 ### V 1.17.0 2021-07-09
-- Update archived repositories
+ - Update archived repositories
 
 ### V 1.16.0 2021-06-20
-- Update archived repositories
+ - Update archived repositories
 
 ### V 1.15.0 2021-04-24
-- Add url-app repository
+ - Add url-app repository
 
 ### V 1.14.0 2021-04-05
  - Update archived repositories
